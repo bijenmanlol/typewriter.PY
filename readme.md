@@ -2,6 +2,6 @@
 
 By @drooler (https://drooler.tk/)
 
-A typewriter module for python.
+A typewriter module for python.<br>
 Download the latest release here:
 https://github.com/bijenmanlol/typewriter.PY/releases/latest
