@@ -1,5 +1,7 @@
 # typewriter.PY
 
+## ABANDONED PROJECT - currently builtin of: https://github.com/bijenmanlol/typergame
+
 By @drooler (https://drooler.tk/)
 
 A typewriter module for python.<br>
